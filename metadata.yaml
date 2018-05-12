@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39424
     wikipedia: http://eo.wikipedia.org/wiki/James_F._Morton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38371#Exempting-the-Churches--13-An-Argument-for-the-Abolition-of-This-Unjust-and-Unconstitutional-_
 gutenberg_issued: '2011-12-22'
 gutenberg_type: Text
 identifiers:
