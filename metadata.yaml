@@ -1,0 +1,28 @@
+_repo: Exempting-the-Churches--13-An-Argument-for-the-Abolition-of-This-Unjust-and-Unconstitutional-__38371
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morton, James F. (James Ferdinand)
+    birthdate: 1870
+    deathdate: 1941
+    gutenberg_agent_id: '39424'
+    url: http://www.gutenberg.org/2009/agents/39424
+    wikipedia: http://eo.wikipedia.org/wiki/James_F._Morton
+description: ''
+gutenberg_issued: '2011-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38371'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church property'
+- !lcc 'BV'
+title: "Exempting the Churches\r\nAn Argument for the Abolition of This Unjust and\
+  \ Unconstitutional Practice"
+url: http://www.gutenberg.org/ebooks/38371
